@@ -11,4 +11,21 @@
     }
     ```
 
-3. 
+
+#### day03
+
+---
+
+公用搜索样式![1595212636617](C:\Users\12157\AppData\Roaming\Typora\typora-user-images\1595212636617.png)
+
+图片的绝对定位做到图片和搜索栏div水平放置的效果，右侧搜索栏div套 子div，最后使用body样式设置全体页面
+
+```css
+img.simpleLogo {
+    position: absolute;
+    left: 10px;
+    top: 50px;
+    width: 140px;
+}
+```
+
